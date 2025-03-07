@@ -1,0 +1,36 @@
+cd C:\Users\admin\SIMGit_Activity
+
+(
+echo Challenges Faced During This Activity:
+
+echo Understanding SSH authentication and resolving connection issues.
+
+echo Incorrectly setting the remote repository URL, which led to errors.
+
+echo Working in the wrong directory (C:\Windows\System32), which caused permission issues.
+
+echo Resolving authentication errors when using HTTPS and setting up credentials.
+
+echo Figuring out how to correctly initialize and push the repository to GitHub.
+
+echo Most Confusing Git Command:
+
+echo git remote add origin ^<URL^>: It was confusing because an incorrect URL format caused errors.
+
+echo git push -u origin main: Understanding the -u flag and how it sets upstream tracking.
+
+echo ssh -T git@github.com: Connection timeout issues made SSH setup challenging.
+
+echo How Version Control Helps in Real-World Software Development:
+
+echo Collaboration: Allows multiple developers to work on the same project simultaneously.
+
+echo Tracking Changes: Provides a history of changes, making it easier to debug and revert when needed.
+
+echo Branching & Merging: Enables working on new features without disrupting the main project.
+
+echo Backup & Recovery: Ensures code is safely stored and can be restored if needed.
+
+echo Continuous Deployment: Integrates with CI/CD pipelines for automated testing and deployment.
+
+) > git_activity.txt
